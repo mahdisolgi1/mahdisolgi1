@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 , I'm Mahdi Solgi </h1>
 
-<h3 align="center">I’m a passionate junior front-end developer based in Karaj, Iran.</h3>
+<h3 align="center">I’m a passionate junior front-end developer.</h3>
 
 ## How to reach me
 
 - 📧 Email: [mahdi.solgi.dev@gmail.com](mailto:mahdi.solgi.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mahdi-solgi](https://linkedin.com/in/mahdi-solgi)
 
-Feel free to reach out
+Feel free to reach out :
 
 <h3 align="left">Languages and Tools : </h3>
 <p align="left"> 
